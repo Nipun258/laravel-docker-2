@@ -1,5 +1,5 @@
 version: '3'
-name: laravel-project
+name: laravel-app-2
 
 services:
 
